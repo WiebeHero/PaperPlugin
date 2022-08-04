@@ -1,0 +1,6 @@
+name: Testplugin
+version: '${project.version}'
+main: me.WiebeHero.Main.Main
+api-version: 1.19
+authors: [ WiebeHero ]
+description: Test plugin
